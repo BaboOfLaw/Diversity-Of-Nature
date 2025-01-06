@@ -6,7 +6,7 @@
       <file name="race-db-lizardfolk.xml" url="https://github.com/BaboOfLaw/Diversity-Of-Nature/blob/5c98d6b9b8578cb1a26c88868c60c12c0df33bd7/Encyclopedia%20Of%20Secret%20Species/races/race-db-lizardfolk.xml" />
     </update>
   </info>
-  <element name="Dragon-blooded Lizardfolk" type="Race" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_BOL_DON_RACE_DB_Lizardfolk">
+  <element name="Dragon-blooded Lizardfolk" type="Race" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_DOL_ESS_RACE_DB_Lizardfolk">
     <description>
       <p>Dragon-blooded lizardfolk are lizardfolk infused with the might of dragons. They originate from dragons performing experiments on standard lizardfolk or interbreeding.</p>
       <p class="indent">Dragon-blooded lizardfolk are the result of draconic influence merging with the primal resilience of their kind. Whether through ancient experiments conducted by ambitious dragons, magical rituals gone awry, or the rare mingling of dragon and lizardfolk bloodlines, these creatures have inherited aspects of their draconic ancestors.</p>
