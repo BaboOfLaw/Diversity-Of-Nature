@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<elements>
+  <info>
+    <name>Dragon-blooded Lizardfolk</name>
+    <description>The dragon-blooded Lizardfolk race from Encyclopedia Of Secret Species.</description>
+    <author>BaboOfLaw</author>
+    <update version="0.0.3">
+      <file name="race-db-lizardfolk.xml" url="https://github.com/BaboOfLaw/Diversity-Of-Nature/blob/5c98d6b9b8578cb1a26c88868c60c12c0df33bd7/Encyclopedia%20Of%20Secret%20Species/races/race-db-lizardfolk.xml" />
+    </update>
+    <element name="Encyclopedia Of Secret Species" type="Source" source="Diversity Of Nature" id="ID_DON_SOURCE_ENCYCLOPEDIA_OF_SECRET_SPECIES">
+      <description>
+        <p>An encyclopedia of rare and uncommon species</p>
+      </description>
+      <setters>
+        <set name="abbreviation">ESS</set>
+        <set name="author">BaboOfLaw</set>
+        <set name="Diversity Of Nature">true</set>
+        <set name="release">250106</set>
+        <set name="incomplete">true</set>
+      </setters>
+    </element>
+  </info>
+  <element name="Dragon-blooded Lizardfolk" type="Race" source="Encyclopedia Of Secret Species" id="ID_DOL_ESS_RACE_DB_Lizardfolk">
+    <description>
+      <p>Dragon-blooded lizardfolk are lizardfolk infused with the might of dragons. They originate from dragons performing experiments on standard lizardfolk or interbreeding.</p>
+      <p class="indent">Dragon-blooded lizardfolk are the result of draconic influence merging with the primal resilience of their kind. Whether through ancient experiments conducted by ambitious dragons, magical rituals gone awry, or the rare mingling of dragon and lizardfolk bloodlines, these creatures have inherited aspects of their draconic ancestors.</p>
+      <h4>THE HEART OF AN LIZARD</h4>
+      <p>Even though they do not have pure lizardfolk blood flowing through their veins, deep down they remain classic lizardfolk. Culturally and behaviourally, they are in no way inferior to their racial brethren - especially when they are raised amongst their standard kin. The lizardfolk's reptilian nature comes through not only in their appearance, but also in how they think and act. Lizardfolk experience a more limited emotional life than other humanoids. Like most reptiles, their feelings largely revolve around fear, aggression, and pleasure.</p>
+      <p class="indent">Dragon-blooded lizardfolk experience most feelings as detached descriptions of creatures and situations. For example, humans confronted by an angry troll experience fear on a basic level. Their limbs shake, their thinking becomes panicked and jumbled, and they react by instinct. The emotion of fear takes hold and controls their actions. In contrast, lizardfolk see emotions as traits assigned to other creatures, objects, and situations. A lizardfolk doesn't think, "I'm scared." Instead, aggressive, stronger creatures register to the lizardfolk as fearsome beings to be avoided if possible. If such creatures attack, lizardfolk flee, fighting only if cornered. Lizardfolk aren't scared of a troll; instead, they understand that a troll is a fearsome, dangerous creature and react accordingly.</p>
+      <h4>THE MARK OF THE DRAGON</h4>
+      <p>Physically, dragon-blooded lizardfolk are larger and more imposing than their standard kin, their scales often bearing a metallic or chromatic sheen that hints at their dragon lineage. Some develop vestigial wings, elongated horns, or eyes that glow with an inner fire. Their breath carries an unnatural heat or chill, while others have venomous fangs or exude a faint acidic mist or the static hum of latent lightning (depending on their ancestry), but usually they are not capable of unleashing a draconic breath weapon</p>
+      <h4>REVERED AND FEARED</h4>
+      <p>Culturally, dragon-blooded lizardfolk are both revered and feared, their presence a rare and powerful omen among their kin. Most lizardfolk tribes see them as either divine emissaries of the dragon gods or dangerous aberrations whose volatile power could bring ruin. While many are scattered among ordinary lizardfolk, living as honored champions or outcasts, there exist rare, isolated islands where entire tribes of dragon-blooded lizardfolk thrive, ruled by their own kind. Regardless of where they dwell, many feel an innate pull toward dominance, treasure hoarding, or the pursuit of arcane mastery, their instincts echoing the dragons from whom they descend.</p>
+      <p class="indent">Influenced by their dragon heritage dragon-blooded lizardfolk have an higher devotion and respect to their clan than their standard kin. Especially within pure dragon-blooded lizardfolk tribes or tribes with a dragonborn leader each lizardfolk conduct reflects on the honor of his or her clan. Each lizardfolk knows his or her station and duties within the clan and acts in accordance of it.</p>
+      <p class="indent">Most humanoids instead describe cold-blooded people as lacking in emotion and empathy. The same label serves as an apt depiction of dragon-blooded lizardfolk.</p>
+      <p class="indent">Lacking any internal emotional reactions, lizardfolk behave in a distant manner. They don't mourn fallen comrades or rage against their enemies. They simply observe and react as a situation warrants.</p>
+      <p class="indent">Lizardfolk lack meaningful emotional ties to the past. They assess situations based on their current and future utility and importance. Nowhere does this come through as strongly as when lizardfolk deal with the dead. To a lizardfolk, a comrade who dies becomes a potential source of food. That companion might have once been a warrior or hunter, but now the body is just freshly killed meat.</p>
+      <p class="indent">A lizard folk who lives among other humanoids can, over time, learn to respect other creatures' emotions. The lizardfolk doesn't share those feelings, but instead assesses them in the same clinical manner. Yes, the fallen dwarf might be most useful as a meal, but hacking the body into steaks provokes aggression in the other humanoids and makes them less helpful in battle.</p>
+      <h4>CHAMPIONS OF AN ANCIENT LEGACY
+</h4>
+      <p>Some of this race might struggle with their draconic impulses, seeking to forge their own destiny beyond the shadow of the dragons who made them. Whether serving as a tribal leader, a wandering scholar of draconic magic, or a warrior seeking to prove their strength, a dragon-blooded lizardfolk is a force to be reckoned with.</p>
+      <h4>DRAGON-BLOODED LIZARDFOLK NAMES</h4>
+      <p>The names of dragon-blooded lizardfolk are a blend of their primal heritage and the draconic influence that runs through their veins. While some bear traditional lizardfolk names, others take on more elaborate, draconic-sounding titles, either bestowed upon them by their tribe or adopted as a sign of their own growing power.
+
+Many dragon-blooded lizardfolk are given names that reference their elemental affinity, their physical traits, or their place within the tribe. Those who are seen as divine emissaries may receive names inspired by dragon gods or legendary wyrms, while exiles and wanderers often forge their own names, embracing the destiny they carve for themselves.</p>
+      <h4>DRAGON-BLOODED LIZARDFOLK TRAITS</h4>
+      <p>Your dragon-blooded lizardfolk character has certain characteristics in common with all other dragon-blooded lizardfolk</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Increase your Constitution ability score by 2, and choose one of the following ability scores: Strength, Wisdom or Charisma. One score increases by 1.<br /><span class="feature">Age.</span>Dragon-blooded lizardfolk reach maturity around age 17 and rarely live longer than 80 years.<br /><span class="feature">Alignment.</span>Dragon-blooded lizardfolk lean toward the same alignment of the dragon whose powers they stem from. This is particularly the case if that dragon rules over their tribe.
+
+Compared with other lizardfolk, they are much less isolationist. Chromatic lizardfolk typically are expansionist and seek to dominate other creatures, while metallic lizardfolk are usually champions of the weak and defenseless.<br /><span class="feature">Size.</span>Dragon-blooded lizardfolk are notably larger than typical lizardfolk. A dragon-blooded lizardfolk is usually 6 to 7 feet tall, and weighs about 300 pounds on average. Its tail is 4 to 5 feet long. Your size is Medium.<br /><span class="feature">Speed.</span>Your base walking speed is 30 feet. Black and bronze lizardfolk have a swimming speed of 30 feet, while all others have a climbing speed of 20 feet.
+
+
+			<br /><span class="feature">Bite.</span>Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+			<br /><span class="feature">Cunning Artisan.</span>As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size Small or larger to create one of the following items: a shield, a club, a javelin, or 1d4 darts or blowgun needles. To use this trait, you need a blade, such as a dagger, or appropriate artisan's tools, such as leatherworker's tools.
+			<br /><span class="feature">Draconic Heritage.</span>Choose one type of true dragon fom the Draconic Ancestry table. You wield some of its powers. This choice affects several racial traits.<h5>DRACONIC ANCESTRY TABLE</h5><table><thead><tr><td>d10</td><td>Dragon</td></tr></thead><tr><td>1</td><td>Black - Acid (Chromatic)
+</td></tr><tr><td>2</td><td>Blue - Lightning (Chromatic)
+</td></tr><tr><td>3</td><td>Brass - Fire (Metallic) 	 
+</td></tr><tr><td>4</td><td>Bronze - Lightning (Metallic)
+</td></tr><tr><td>5</td><td>Copper - Acid or Poison (Metallic)
+</td></tr><tr><td>6</td><td>Gold - Fire (Metallic)
+</td></tr><tr><td>7</td><td>Green	Poison (Chromatic) 
+</td></tr><tr><td>8</td><td>Red - Fire (Chromatic)
+</td></tr><tr><td>9</td><td>Silver - Cold (Metallic)
+</td></tr><tr><td>10</td><td>White - Cold (Chromatic)
+
+</td></tr></table><br /><span class="feature">Dragon's Jaws.</span>In battle, you can throw yourself into a frenzy. As a bonus action, you can make a special attack with your bite. If the attack hits, it deals its normal damage plus additional damage (minimum of 1) equal to your Constitution modifier, and you can't use this trait again until you finish a short or long rest. The additional damage is of the same type that your choice of dragon for Draconic Heritage deals with its breath weapon.<br /><span class="feature">Hold Breath/Smell Magic.</span>Black and bronze lizardfolk can hold their breath for up to 15 minutes at a time. All others have a limited ability to smell magic. They can determine whether an item within 5 feet of them is magical by inspecting it as an action. They gain no insight into its properties.<br /><span class="feature">Hunter's Lore</span>You gain proficiency with two of the following skills of your choice: Animal Handling, Nature, Perception, Stealth, and Survival.<br /><span class="feature">Natural Armor</span>You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.<br /><span class="feature">Languages.</span>You can speak, read, and write Common and Draconic.
+
+<br /></p>
+    </description>
+    <sheet display="false" />
+    <setters>
+      <set name="names" type="male">Achuak, Aryte, Baeshra, Darastrix, Garurt, Irhtos, Jhank, Kepesk, Kethend, Korth, Kosj, Kothar, Litrix, Mirik, Othokent, Sauriv, Throden, Thurkear, Usk, Valignat, Vargach, Verthica, Vutha, Vyth</set>
+      <set name="names-format">{{name}}</set>
+      <set name="height" modifier="2d10">5'6"</set>
+      <set name="weight" modifier="2d6">175 lb.</set>
+    </setters>
+    <rules>
+      <stat name="constitution" value="2" />
+      <select type="Racial Trait" name="Ability Score Increase" supports="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_STRENGTH|ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_WISDOM|ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_CHARISMA" />
+      <stat name="innate speed" value="30" bonus="base" />
+      <grant type="Size" id="ID_SIZE_MEDIUM" />
+      <grant type="Language" id="ID_LANGUAGE_COMMON" />
+      <grant type="Language" id="ID_LANGUAGE_DRACONIC" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_DRACONIC_HERITAGE" />
+      <grant type="Racial Trait" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_NATURAL_ARMOR" />
+      <grant type="Racial Trait" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_HUNTERS_LORE" />
+      <grant type="Racial Trait" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_CUNNING_ARTISAN" />
+    </rules>
+  </element>
+  <element name="Draconic Heritage" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_DRACONIC_HERITAGE">
+    <description>
+      <p>Draconic blood flows through your veins. Your draconic heritage affects several racial traits. Choose one type of true dragon fom the Draconic Heritage table as shown in the table. You wield some of its powers.</p>
+      <h5>DRACONIC Heritage</h5>
+      <table>
+        <thead>
+          <tr>
+            <td>Dragon</td>
+            <td>Damage Type</td>
+            <td>Additional Effect</td>
+          </tr>
+        </thead>
+        <tr>
+          <td>Black</td>
+          <td>Acid</td>
+          <td>Extra damage (DEX save)</td>
+        </tr>
+        <tr>
+          <td>Blue</td>
+          <td>Lightning</td>
+          <td>Can't take reactions (DEX save)</td>
+        </tr>
+        <tr>
+          <td>Brass</td>
+          <td>Fire</td>
+          <td>Advantage on damage roll (DEX save)</td>
+        </tr>
+        <tr>
+          <td>Bronze</td>
+          <td>Lightning</td>
+          <td>Can't take reactions (DEX save)</td>
+        </tr>
+        <tr>
+          <td>Copper (Acid)</td>
+          <td>Acid</td>
+          <td>Extra damage (DEX save)</td>
+        </tr>
+        <tr>
+          <td>Copper (Poison)</td>
+          <td>Poison</td>
+          <td>Poisoned (CON save)</td>
+        </tr>
+        <tr>
+          <td>Gold</td>
+          <td>Fire</td>
+          <td>Advantage on damage roll (DEX save)</td>
+        </tr>
+        <tr>
+          <td>Green</td>
+          <td>Poison</td>
+          <td>Poisoned (CON save)</td>
+        </tr>
+        <tr>
+          <td>Red</td>
+          <td>Fire</td>
+          <td>Advantage on damage roll (DEX save)</td>
+        </tr>
+        <tr>
+          <td>Silver</td>
+          <td>Cold</td>
+          <td>Slowed (CON save)</td>
+        </tr>
+        <tr>
+          <td>White</td>
+          <td>Cold</td>
+          <td>Slowed (CON save)</td>
+        </tr>
+      </table>
+    </description>
+    <rules>
+      <select type="Racial Trait" name="Draconic Heritage" supports="Draconic Heritage" />
+    </rules>
+  </element>
+  <element name="Draconic Heritage (Black)" type="Racial Trait" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_RACIAL_TRAIT_DRACONIC_HERITAGE_BLACK">
+    <supports>Draconic Heritage</supports>
+    <description>
+      <div element="ID_RACIAL_TRAIT_DRACONIC_HERITAGE" />
+    </description>
+    <sheet alt="Black">
+      <description>Your draconic ancestry is {{draconic-heritage}}. Your dragon's bite additional damage type is {{draconic-heritage:damage type}} ({{draconic-heritage:bite}} saving throw). Your base swimming speed is {{innate speed:swim}}.</description>
+    </sheet>
+    <rules>
+      <stat inline="true" name="draconic-heritage" value="Black" />
+      <stat inline="true" name="draconic-heritage:damage type" value="Acid" />
+      <stat inline="true" name="draconic-heritage:bite" value="Dexterity" />
+      <stat inline="true" name="draconic-heritage:save" value="On a failed save the target takes 1d4 acid damage at the end of its next turn" />
+      <stat inline="true" name="innate speed:swim" value="30" bonus="base"></stat>
+      <grant type="Racial Trait" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_HOLD_BREATH" />
+    </rules>
+  </element>
+  <element name="Draconic Heritage (Blue)" type="Racial Trait" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_RACIAL_TRAIT_DRACONIC_HERITAGE_BLUE">
+    <supports>Draconic Heritage</supports>
+    <description>
+      <div element="ID_RACIAL_TRAIT_DRACONIC_HERITAGE" />
+    </description>
+    <sheet alt="Blue">
+      <description>Your draconic ancestry is {{draconic-heritage}}. Your dragon's bite additional damage type is {{draconic-heritage:damage type}} ({{draconic-heritage:bite}} saving throw). Your base climbing speed is {{innate speed:climb}}.</description>
+    </sheet>
+    <rules>
+      <stat inline="true" name="draconic-heritage" value="Blue" />
+      <stat inline="true" name="draconic-heritage:damage type" value="Lightning" />
+      <stat inline="true" name="draconic-heritage:bite" value="Dexterity" />
+      <stat inline="true" name="draconic-heritage:save" value="On a failed save the target can’t take reactions until the start of its next turn" />
+      <stat inline="true" name="innate speed:climb" value="20" bonus="base"></stat>
+      <grant type="Racial Trait" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_SMELL_MAGIC" />
+    </rules>
+  </element>
+  <element name="Draconic Heritage (Brass)" type="Racial Trait" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_RACIAL_TRAIT_DRACONIC_HERITAGE_BRASS">
+    <supports>Draconic Heritage</supports>
+    <description>
+      <div element="ID_RACIAL_TRAIT_DRACONIC_HERITAGE" />
+    </description>
+    <sheet alt="Brass">
+      <description>Your draconic ancestry is {{draconic-heritage}}. Your dragon's bite additional damage type is {{draconic-heritage:damage type}} ({{draconic-heritage:bite}} saving throw). Your base climbing speed is {{innate speed:climb}}.</description>
+    </sheet>
+    <rules>
+      <stat inline="true" name="draconic-heritage" value="Brass" />
+      <stat inline="true" name="draconic-heritage:damage type" value="Fire" />
+      <stat inline="true" name="draconic-heritage:bite" value="Dexterity" />
+      <stat inline="true" name="draconic-heritage:save" value="On a failed save you have advantage on the damage roll" />
+      <stat inline="true" name="innate speed:climb" value="20" bonus="base"></stat>
+      <grant type="Racial Trait" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_SMELL_MAGIC" />
+    </rules>
+  </element>
+  <element name="Draconic Heritage (Bronze)" type="Racial Trait" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_RACIAL_TRAIT_DRACONIC_HERITAGE_BRONZE">
+    <supports>Draconic Heritage</supports>
+    <description>
+      <div element="ID_RACIAL_TRAIT_DRACONIC_HERITAGE" />
+    </description>
+    <sheet alt="Bronze">
+      <description>Your draconic ancestry is {{draconic-heritage}}. Your dragon's bite additional damage type is {{draconic-heritage:damage type}} ({{draconic-heritage:bite}} saving throw). Your base swimming speed is {{innate speed:swim}}.</description>
+    </sheet>
+    <rules>
+      <stat inline="true" name="draconic-heritage" value="Bronze" />
+      <stat inline="true" name="draconic-heritage:damage type" value="Lightning" />
+      <stat inline="true" name="draconic-heritage:bite" value="Dexterity" />
+      <stat inline="true" name="draconic-heritage:save" value="On a failed save the target can’t take reactions until the start of its next turn" />
+      <stat inline="true" name="innate speed:swim" value="30" bonus="base"></stat>
+      <grant type="Racial Trait" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_HOLD_BREATH" />
+    </rules>
+  </element>
+  <element name="Draconic Heritage (Copper)" type="Racial Trait" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_RACIAL_TRAIT_DRACONIC_HERITAGE_COPPER">
+    <supports>Draconic Heritage</supports>
+    <description>
+      <div element="ID_RACIAL_TRAIT_DRACONIC_HERITAGE" />
+    </description>
+    <sheet alt="Copper">
+      <description>Your draconic ancestry is {{draconic-heritage}}. Your dragon's bite additional damage type is {{draconic-heritage:damage type}} ({{draconic-heritage:bite}} saving throw). Your base climbing speed is {{innate speed:climb}}.</description>
+    </sheet>
+    <rules>
+      <stat inline="true" name="draconic-heritage" value="Copper" />
+      <stat inline="true" name="draconic-heritage:damage type" value="Acid" />
+      <stat inline="true" name="draconic-heritage:bite" value="Dexterity" />
+      <stat inline="true" name="draconic-heritage:save" value="On a failed save the target takes 1d4 acid damage at the end of its next turn" />
+      <stat inline="true" name="innate speed:climb" value="20" bonus="base"></stat>
+      <grant type="Racial Trait" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_SMELL_MAGIC" />
+    </rules>
+  </element>
+  <element name="Draconic Heritage (Gold)" type="Racial Trait" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_RACIAL_TRAIT_DRACONIC_HERITAGE_GOLD">
+    <supports>Draconic Heritage</supports>
+    <description>
+      <div element="ID_RACIAL_TRAIT_DRACONIC_HERITAGE" />
+    </description>
+    <sheet alt="Gold">
+      <description>Your draconic ancestry is {{draconic-heritage}}. Your dragon's bite additional damage type is {{draconic-heritage:damage type}} ({{draconic-heritage:bite}} saving throw). Your base climbing speed is {{innate speed:climb}}.</description>
+    </sheet>
+    <rules>
+      <stat inline="true" name="draconic-heritage" value="Gold" />
+      <stat inline="true" name="draconic-heritage:damage type" value="Fire" />
+      <stat inline="true" name="draconic-heritage:bite" value="Dexterity" />
+      <stat inline="true" name="draconic-heritage:save" value="On a failed save you have advantage on the damage roll" />
+      <stat inline="true" name="innate speed:climb" value="20" bonus="base"></stat>
+      <grant type="Racial Trait" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_SMELL_MAGIC" />
+    </rules>
+  </element>
+  <element name="Draconic Heritage (Copper-Poison)" type="Racial Trait" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_RACIAL_TRAIT_DRACONIC_HERITAGE_COPPER_POISON">
+    <supports>Draconic Heritage</supports>
+    <description>
+      <div element="ID_RACIAL_TRAIT_DRACONIC_HERITAGE" />
+    </description>
+    <sheet alt="Copper">
+      <description>Your draconic ancestry is {{draconic-heritage}}. Your dragon's bite additional damage type is {{draconic-heritage:damage type}} ({{draconic-heritage:bite}} saving throw). Your base climbing speed is {{innate speed:climb}}.</description>
+    </sheet>
+    <rules>
+      <stat inline="true" name="draconic-heritage" value="Copper" />
+      <stat inline="true" name="draconic-heritage:damage type" value="Poison" />
+      <stat inline="true" name="draconic-heritage:bite" value="Constitution" />
+      <stat inline="true" name="draconic-heritage:save" value="On a failed save, the target becomes poisoned until the end of your next turn" />
+      <stat inline="true" name="innate speed:climb" value="20" bonus="base"></stat>
+      <grant type="Racial Trait" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_SMELL_MAGIC" />
+    </rules>
+  </element>
+  <element name="Draconic Heritage (Green)" type="Racial Trait" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_RACIAL_TRAIT_DRACONIC_HERITAGE_GREEN">
+    <supports>Draconic Heritage</supports>
+    <description>
+      <div element="ID_RACIAL_TRAIT_DRACONIC_HERITAGE" />
+    </description>
+    <sheet alt="Green">
+      <description>Your draconic ancestry is {{draconic-heritage}}. Your dragon's bite additional damage type is {{draconic-heritage:damage type}} ({{draconic-heritage:bite}} saving throw). Your base climbing speed is {{innate speed:climb}}.</description>
+    </sheet>
+    <rules>
+      <stat inline="true" name="draconic-heritage" value="Green" />
+      <stat inline="true" name="draconic-heritage:damage type" value="Poison" />
+      <stat inline="true" name="draconic-heritage:bite" value="Constitution" />
+      <stat inline="true" name="draconic-heritage:save" value="On a failed save, the target becomes poisoned until the end of your next turn" />
+      <stat inline="true" name="innate speed:climb" value="20" bonus="base"></stat>
+      <grant type="Racial Trait" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_SMELL_MAGIC" />
+    </rules>
+  </element>
+  <element name="Draconic Heritage (Red)" type="Racial Trait" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_RACIAL_TRAIT_DRACONIC_HERITAGE_RED">
+    <supports>Draconic Heritage</supports>
+    <description>
+      <div element="ID_RACIAL_TRAIT_DRACONIC_HERITAGE" />
+    </description>
+    <sheet alt="Red">
+      <description>Your draconic ancestry is {{draconic-heritage}}. Your dragon's bite additional damage type is {{draconic-heritage:damage type}} ({{draconic-heritage:bite}} saving throw). Your base climbing speed is {{innate speed:climb}}.</description>
+    </sheet>
+    <rules>
+      <stat inline="true" name="draconic-heritage" value="Red" />
+      <stat inline="true" name="draconic-heritage:damage type" value="Fire" />
+      <stat inline="true" name="draconic-heritage:bite" value="Dexterity" />
+      <stat inline="true" name="draconic-heritage:save" value="On a failed save you have advantage on the damage roll" />
+      <stat inline="true" name="innate speed:climb" value="20" bonus="base"></stat>
+      <grant type="Racial Trait" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_SMELL_MAGIC" />
+    </rules>
+  </element>
+  <element name="Draconic Heritage (SILVER)" type="Racial Trait" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_RACIAL_TRAIT_DRACONIC_HERITAGE_SILVER">
+    <supports>Draconic Heritage</supports>
+    <description>
+      <div element="ID_RACIAL_TRAIT_DRACONIC_HERITAGE" />
+    </description>
+    <sheet alt="Silver">
+      <description>Your draconic ancestry is {{draconic-heritage}}. Your dragon's bite additional damage type is {{draconic-heritage:damage type}} ({{draconic-heritage:bite}} saving throw). Your base climbing speed is {{innate speed:climb}}.</description>
+    </sheet>
+    <rules>
+      <stat inline="true" name="draconic-heritage" value="Silver" />
+      <stat inline="true" name="draconic-heritage:damage type" value="Cold" />
+      <stat inline="true" name="draconic-heritage:bite" value="Constitution" />
+      <stat inline="true" name="draconic-heritage:save" value="On a failed save the target's movement speed is reduced by 5 feet until the start of your next turn" />
+      <stat inline="true" name="innate speed:climb" value="20" bonus="base"></stat>
+      <grant type="Racial Trait" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_SMELL_MAGIC" />
+    </rules>
+  </element>
+  <element name="Draconic Heritage (White)" type="Racial Trait" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_RACIAL_TRAIT_DRACONIC_HERITAGE_WHITE">
+    <supports>Draconic Heritage</supports>
+    <description>
+      <div element="ID_RACIAL_TRAIT_DRACONIC_HERITAGE" />
+    </description>
+    <sheet alt="White">
+      <description>Your draconic ancestry is {{draconic-heritage}}. Your dragon's bite additional damage type is {{draconic-heritage:damage type}} ({{draconic-heritage:bite}} saving throw). Your base climbing speed is {{innate speed:climb}}.</description>
+    </sheet>
+    <rules>
+      <stat inline="true" name="draconic-heritage" value="White" />
+      <stat inline="true" name="draconic-heritage:damage type" value="Cold" />
+      <stat inline="true" name="draconic-heritage:bite" value="Constitution" />
+      <stat inline="true" name="draconic-heritage:save" value="On a failed save the target's movement speed is reduced by 5 feet until the start of your next turn" />
+      <stat inline="true" name="innate speed:climb" value="20" bonus="base"></stat>
+      <grant type="Racial Trait" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_SMELL_MAGIC" />
+    </rules>
+  </element>
+  <element name="Natural Armor" type="Racial Trait" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_NATURAL_ARMOR">
+    <description>
+      <p>You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.</p>
+    </description>
+    <sheet>
+      <description>You have tough, scaly skin. When you aren't wearing armor, your AC is {{ac:natural armor lizardfolk}}.</description>
+    </sheet>
+    <rules>
+      <stat name="ac:natural armor lizardfolk:base" value="13" />
+      <stat name="ac:natural armor lizardfolk:dexterity" value="dexterity:modifier" />
+      <stat name="ac:natural armor lizardfolk" value="ac:natural armor lizardfolk:base" />
+      <stat name="ac:natural armor lizardfolk" value="ac:natural armor lizardfolk:dexterity" />
+      <stat name="ac:calculation" value="ac:natural armor lizardfolk" bonus="calculation" equipped="[armor:none]" alt="Natural Armor (Lizardfolk)" />
+    </rules>
+  </element>
+  <element name="Hold Breath" type="Racial Trait" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_HOLD_BREATH">
+    <description>
+      <p>You can hold your breath for up to 15 minutes at a time while you’re not incapacitated.</p>
+    </description>
+    <sheet>
+      <description>You can hold your breath for up to 15 minutes at a time while you’re not incapacitated.</description>
+    </sheet>
+  </element>
+  <element name="Smell Magic" type="Racial Trait" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_SMELL_MAGIC">
+    <description>
+      <p>You have a limited ability to smell magic. You can determine whether an item within 5 feet of you is magical by inspecting it as an action. You gain no insight into its properties.</p>
+    </description>
+    <sheet>
+      <description>You have a limited ability to smell magic. You can determine whether an item within 5 feet of you is magical by inspecting it as an action. You gain no insight into its properties.</description>
+    </sheet>
+  </element>
+  <element name="Bite" type="Racial Trait" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_BITE">
+    <description>
+      <p>Your fanged maw is a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal piercing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.</p>
+    </description>
+    <sheet>
+      <description>Your fanged maw is a natural weapon, which you can use to make unarmed strikes. 1d6+{{lizardfolk bite:damage}} piercing damage.</description>
+    </sheet>
+    <rules>
+      <stat name="lizardfolk bite:damage" value="strength:modifier" />
+    </rules>
+  </element>
+  <element name="Dragon's Jaws" type="Racial Trait" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_DON_ESS_RACIAL_TRAIT_LIZARDFOLK_DRAGONS_JAWS">
+    <description>
+      <p>In battle, you can throw yourself into a frenzy. As a bonus action, you can make a special attack with your bite. If the attack hits, it deals its normal damage plus additional damage (minimum of 1) equal to your Constitution modifier, and the target must make a saving throw, the type of which is determined by your heritage. You can't use this trait again until you finish a short or long rest. The additional damage is of the same type that your choice of dragon for Draconic Heritage deals with its breath weapon. </p>
+    </description>
+    <sheet>
+      <description>As a bonus action, you can make a special attack with your bite. If the attack hits, it deals its 1d6+{{lizardfolk bite:damage}} piercing damage plus additional {{lizardfolk dragon jaw:damage}} {{draconic-heritage:damage type}} damage. The target has to make a {{draconic-heritage:bite}} saving throw. The DC of this saving throw is {{jaw-weapon:dc}}. {{draconic-heritage:save}}. 1/ short rest. </description>
+    </sheet>
+    <rules>
+      <stat name="lizardfolk dragon jaw:damage" value="constitution:modifier" bonus="dragon's jaws" />
+      <stat name="jaw-weapon:dc" value="8" />
+      <stat name="jaw-weapon:dc" value="constitution:modifier" />
+      <stat name="jaw-weapon:dc" value="proficiency" />
+    </rules>
+  </element>
+  <element name="Hunter's Lore" type="Racial Trait" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_HUNTERS_LORE">
+    <description>
+      <p>You gain proficiency with two of the following skills of your choice: Animal Handling, Nature, Perception, Stealth, and Survival.</p>
+    </description>
+    <sheet display="false">
+      <description>You gain proficiency with two of the following skills of your choice: Animal Handling, Nature, Perception, Stealth, and Survival.</description>
+    </sheet>
+    <rules>
+      <select type="Proficiency" name="Hunter's Lore" supports="ID_PROFICIENCY_SKILL_ANIMALHANDLING|ID_PROFICIENCY_SKILL_PERCEPTION|ID_PROFICIENCY_SKILL_STEALTH|ID_PROFICIENCY_SKILL_SURVIVAL" number="2" />
+    </rules>
+  </element>
+  <element name="Cunning Artisan" type="Racial Trait" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_CUNNING_ARTISAN">
+    <description>
+      <p>As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size Small or larger to create one of the following items: a shield, a club, a javelin, or 1d4 darts or blowgun needles. To use this trait, you need a blade, such as a dagger, or appropriate artisan's tools, such as leatherworker's tools.</p>
+    </description>
+    <sheet>
+      <description>As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature.</description>
+    </sheet>
+  </element>
+  <element name="Strength" type="Racial Trait" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_STRENGTH">
+    <description>
+      <p>Your Constitution score increases by 2, and your Strength score increases by 1.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="strength" value="1" alt="Dragon-blooded Lizardfolk" />
+    </rules>
+  </element>
+  <element name="Wisdom" type="Racial Trait" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_WISDOM">
+    <description>
+      <p>Your Constitution score increases by 2, and your Wisdom score increases by 1.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="wisdom" value="1" alt="Dragon-blooded Lizardfolk" />
+    </rules>
+  </element>
+  <element name="Charisma" type="Racial Trait" source="Diversity Of Nature: Encyclopedia Of Secret Species" id="ID_DON_ESS_RACIAL_TRAIT_DB_LIZARDFOLK_CHARISMA">
+    <description>
+      <p>Your Constitution score increases by 2, and your Charisma score increases by 1.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="charisma" value="1" alt="Dragon-blooded Lizardfolk" />
+    </rules>
+  </element>
+</elements>
