@@ -4,7 +4,7 @@
     <name>Diversity of Nature</name>
     <description>The content from the homebrew extension pack Diversity Of Nature</description>
     <update version="0.0.3">
-      <file name="diversity-of-nature.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party.index" />
+      <file name="diversity-of-nature.index" url="https://github.com/BaboOfLaw/Diversity-Of-Nature/blob/2049b121409012968f4045723497152855eb17ba/diversity-of-nature.index" />
     </update>
   </info>
   <files>
