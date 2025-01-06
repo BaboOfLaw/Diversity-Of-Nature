@@ -8,6 +8,6 @@
     </update>
   </info>
   <files>
-    <file name="race-db-lizardfolk.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/arcanum-worlds.index" />
+    <file name="race-db-lizardfolk.xml" url="https://github.com/BaboOfLaw/Diversity-Of-Nature/blob/ad822c405f09d97714d3c982463edd2d6e656a52/Encyclopedia%20Of%20Secret%20Species/races/race-db-lizardfolk.xml" />
   </files>
 </index>
