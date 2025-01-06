@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <info>
+    <name>Diversity Of Nature</name>
+    <description>The content from the homebrew extension pack Diversity Of Nature</description>
+    <author url="http://ludwig.legal">Diversity Of Nature</author>
+    <update version="0.0.4">
+      <file name="diversity-of-nature.index" url="https://github.com/BaboOfLaw/Diversity-Of-Nature/blob/2157244522513aeb487c47157236fb4d0676b51d/diversity-of-nature.index" />
+    </update>
+  </info>
+  <files>
+    <file name="race-db-lizardfolk.xml" url="https://github.com/BaboOfLaw/Diversity-Of-Nature/blob/2157244522513aeb487c47157236fb4d0676b51d/Encyclopedia%20Of%20Secret%20Species/races/race-db-lizardfolk.xml" />
+  </files>
+</index>
