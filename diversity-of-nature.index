@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <info>
+    <name>Diversity Of Nature</name>
+    <description>The content from the homebrew extension pack Diversity Of Nature</description>
+    <update version="0.0.1">
+      <file name="diversity-of-nature.index" url="https://raw.githubusercontent.com/Diversity-Of-Nature/elements/master/diversity-of-nature.index" />
+    </update>
+  </info>
+  <files>
+    <file name="mage-hand-press.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/mage-hand-press.index" />
+    <obsolete name="sources.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/sources.xml" />
+    <obsolete name="dnd-wiki.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/dnd-wiki.index" />
+  </files>
+</index>
