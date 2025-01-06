@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <info>
+    <name>Diversity of Nature</name>
+    <description>The content from the homebrew extension pack Diversity Of Nature</description>
+    <update version="0.0.3">
+      <file name="diversity-of-nature.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party.index" />
+    </update>
+  </info>
+  <files>
+    <file name="race-db-lizardfolk.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party/arcanum-worlds.index" />
+  </files>
+</index>
